@@ -1,16 +1,15 @@
-title: CompSci Blogs
-description: "August 2023 to June 2024"
-owner_name: Nighthawk Coders
+title: CSP Blog
+description: "“The struggle itself towards the heights is enough to fill a man's heart. One must imagine Sisyphus happy.” -Albert Camus"
+owner_name: Kyle Liang
 github_username: BearytheGreenBear
 baseurl: "/csp-blog"
 # remote_theme: pages-themes/midnight@v0.2.0
 # remote_theme: pages-themes/dinky@v0.2.0
 remote_theme: pages-themes/minimal@v0.2.0
-logo: /assets/img/logo.png
+# logo: /assets/img/logo.png
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
-
 
 # remote_theme: pages-themes/hacker@v0.2.0
 # remote_theme: pages-themes/cayman@v0.2.0
