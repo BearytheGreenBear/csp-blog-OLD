@@ -3,14 +3,14 @@ layout: default
 title: Student Blog
 ---
 
-<!--- Added this GIF from Tenor
-Adjusted size to 75%-->
-
-<div class="tenor-gif-embed" data-postid="18832827" data-share-method="host" data-aspect-ratio="1.77778" data-width="75%"><a href="https://tenor.com/view/aesthetic-gif-18832827">Aesthetic GIF</a>from <a href="https://tenor.com/search/aesthetic-gifs">Aesthetic GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-&nbsp; <!-- Used this b/c the Gif was messing up spacing-->
+<!-- TOC Here -->
 
 ## Kyle Liang's Blog
 I'm Kyle Liang, and this is my GitHub Blog :D I do USACO.
+
+## My Hobbies
+>- **Coding**: I do USACO. I hope I get into USACO Gold soon. Also I do CodeForces, and I have a Romanian Tutor.
+- ****
 
 ## A Poem
 >"First they came for the **socialists**, and I did not speak out—because I was not a **socialist**.
