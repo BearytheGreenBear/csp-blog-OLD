@@ -10,7 +10,8 @@ I'm Kyle Liang, and this is my GitHub Blog :D I do USACO.
 
 ## My Hobbies
 >- **Coding**: I do USACO. I hope I get into USACO Gold soon. Also I do CodeForces, and I have a Romanian Tutor.
-- ****
+- **Music**: I play a lot of piano ;-; Also, I like listening to music :P
+- **Reading**: I try to read a lot. Um, but most of the time I just watch youtube. You should read (12 Rules for Life: An Antidote to Chaos)[https://a.co/d/7JdgU8o],  
 
 ## A Poem
 >"First they came for the **socialists**, and I did not speak out—because I was not a **socialist**.
